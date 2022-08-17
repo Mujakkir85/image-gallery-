@@ -32,10 +32,6 @@ const AllImages = () => {
                     ))}
                 </div>
 
-                <div>
-                    {/* <Loader></Loader> */}
-                </div>
-
                 <InfiniteScroll
                     dataLength={images.length}
                     next={fetchImages}
