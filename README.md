@@ -2,7 +2,7 @@
 [Image Gellary](https://fluffy-profiterole-447a6e.netlify.app/)
 
 # CV
-[CV](https://drive.google.com/drive/u/0/my-drive)
+[CV](https://drive.google.com/file/d/1hx47N0IJyL8Ee9aUczBLXKujdktEVh9H/view?usp=sharing)
 
 # Description
 
